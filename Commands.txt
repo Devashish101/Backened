@@ -1,3 +1,9 @@
+# clone - clones a remote repository to your local machine, creating a copy of the repository on your local machine.
+=> command : git clone <repository URL>
+
+# Status - shows the current status of the repository, including any changes that have been made to the files in the repository.
+=> command : git status
+
 # git add . - adds all new and modified files in the current directory to the staging area
 => command : git add <file name> 
 
