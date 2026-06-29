@@ -1,0 +1,11 @@
+# git add . - adds all new and modified files in the current directory to the staging area
+=> command : git add <file name> 
+
+# commit - commits the changes in the staging area to the local repository, 
+it is the record of the changes made to the files in the repository. 
+The commit message should be a brief description of the changes made.
+=> command : git commit -m "commit message"
+
+# push - pushes the committed changes from the local repository to the remote repository on GitHub.
+=> command : git push origin <branch name>
+
